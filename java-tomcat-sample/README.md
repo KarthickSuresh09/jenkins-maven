@@ -1,4 +1,3 @@
-#hello
 
 #java-tomcat-maven-example
 
